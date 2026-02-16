@@ -1,6 +1,6 @@
 # My Analytics Dashboard
 
-Under construction.
+SSR application with analytical dashboard tracking of personal metrics in five categories - productivity, health, finance, social, and learning - including customizable widgets, automatic insights, period comparison, and report export.
 
 
 ## ScreenShots
